@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+langchain
+gpt4all
+pydantic
+python-dotenv
