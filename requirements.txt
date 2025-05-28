@@ -1,23 +1,12 @@
-# Backend
 fastapi
 uvicorn
 pydantic
 requests
 python-dotenv
-langchain
-gpt4all
-pydantic
 
-
-# Summarizer (Hugging Face)
+# Hugging Face
 transformers
 torch
-sentencepiece
-accelerate
 
-# Frontend
+# Streamlit
 streamlit
-python-dotenv
-
-# Optional (for easier environment handling)
-tqdm
