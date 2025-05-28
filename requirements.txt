@@ -1,7 +1,23 @@
+# Backend
 fastapi
 uvicorn
+pydantic
 requests
+python-dotenv
 langchain
 gpt4all
 pydantic
+
+
+# Summarizer (Hugging Face)
+transformers
+torch
+sentencepiece
+accelerate
+
+# Frontend
+streamlit
 python-dotenv
+
+# Optional (for easier environment handling)
+tqdm
